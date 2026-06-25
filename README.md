@@ -42,7 +42,6 @@
 - studying information science at the university of washington
 - i like making web apps, rating noodles, and obsessing over music
 - currently figuring out: full-stack apps, ML in the browser, and how to make everything feel a little more cozy
-- ask me about instant ramen rankings (i have opinions)
 
 ---
 
@@ -52,7 +51,7 @@
 |---|---|---|
 | [noodleshrine](https://github.com/chewytapioca/noodleshrine) 🍜 | rank instant ramen with tappable hearts, watch community averages update live | Next.js · JavaScript · CSS |
 | [lyricline](https://github.com/chewytapioca/lyricline) 🎵 | explore an artist's full discography as a visual timeline with multilingual sentiment analysis — works with k-pop, j-pop, english & mixed | TypeScript · React · Node.js · Express · HuggingFace |
-| [cafe](https://github.com/chewytapioca/cafe) ☕ | cozy little web project | Next.js · JavaScript · Tailwind |
+| [cafe](https://github.com/chewytapioca/cafe) ☕ | cozy cafe w/ pomodoro timer | Next.js · JavaScript · Tailwind |
 | [chewytapioca.github.io](https://github.com/chewytapioca/chewytapioca.github.io) 🌸 | my little corner of the internet | HTML · CSS |
 
 ---
@@ -63,8 +62,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E8A4?style=flat-square&logoColor=6B5B00&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-D5E8F5?style=flat-square&logoColor=1A4D6E&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-FFE0D5?style=flat-square&logoColor=7A2E10&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-D5EEFF?style=flat-square&logoColor=1A3A6E&logo=css3)
+![Python](https://img.shields.io/badge/Python-E0EED5?style=flat-square&logoColor=1A4A10&logo=python)
+![Java](https://img.shields.io/badge/Java-FFE8E0?style=flat-square&logoColor=7A2500&logo=openjdk)
 
 **frameworks & libraries**
 
