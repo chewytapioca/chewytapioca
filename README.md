@@ -1,12 +1,24 @@
-  ∧,,,∧
-(  ̳• · • ̳)
-/    づ♡ I love you 0%
+```
+⠀
+⠀⠀⠀⠀⣾⣿⣿⣷⣄
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣧⣴⣶⣶⣶⣄
+⠀⠀⠀⣀⣿⣿⡿⠻⣿⣿⣿⣿⣿⣿⣿⡄
+⠀⠀⠀⢇⠠⣏⡖⠒⣿⣿⣿⣿⣿⣿⣿⣧⡀
+⠀⠀⢀⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
+⠀⠀⢸⣿⣿⡿⢋⠁⠀⠀⠀⠀⠉⡙⢿⣿⣿⡇
+⠀⠀⠘⣿⣿⠀⣿⠇⠀⢀⠀⠀⠘⣿⠀⣿⡿⠁
+⠀⠀⠀⠈⠙⠷⠤⣀⣀⣐⣂⣀⣠⠤⠾⠋⠁
+⠀⠀
+```
 
-  ∧,,,∧
-(  ̳• · • ̳)
-/    づ♡  nah jk I love you  ♾️ %
-            
-⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
+<div align="center">
+
+# hi, i'm christina ˙ᵕ˙
+
+**info student @ uw** · seattle, wa
+
+*i build things that are (hopefully) cute and (maybe) useful*
+
 </div>
 
 ---
