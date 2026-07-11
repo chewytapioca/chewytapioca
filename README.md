@@ -1,40 +1,12 @@
-```
-                                 𓈉  へ          ╱| 𝜗𝜚
-                                  ૮ ・・)       ( ・・ 7                 
-                                   /       ◡        𐔌        \   ⎞ can i has bred?
-                               ⟅(_   ◡🍞       しし , ⎠╯
+  ∧,,,∧
+(  ̳• · • ̳)
+/    づ♡ I love you 0%
 
-                                  𓈉  へ          ╱| 𝜗𝜚
-                                  ૮  •̀   •́ )       ( ・・ 7                 
-                     no.         /       ◡        𐔌        \   ⎞
-                               ⟅(_   ◡🍞        しし , ⎠╯
-
-                                  𓈉  へ          ╱| 𝜗𝜚 
-                                  ૮  ¬  ¬)       ( ᵒ̴̶̷̥́    ᵒ̴̶̷̣̥̀ 7                 
-                                   /       ◡        𐔌        \   ⎞ *snifs*
-                               ⟅(_   ◡🍞       しし , ⎠╯
-
-                                𓈉  へ          ╱| 𝜗𝜚 
-                                ૮  –  – )      ( .o o. 7                 
-        okiz..               /       ◡        𐔌        \   ⎞
-        we shares.. ⟅(_   ◡🍞      しし , ⎠╯
-
-                                𓈉  へ   ╱| 𝜗𝜚 
-                                ૮   ᵔ  ᵔ ) (  >  < 7                 
-                                 /       ◡  𐔌        \  ⎞ yippes!
-                             ⟅(_   ◡🍞しし , ⎠╯
-
-
-```
-
-<div align="center">
-
-# hi, i'm christina ˙ᵕ˙
-
-**info student @ uw** · seattle, wa
-
-*i build things that are (hopefully) cute and (maybe) useful*
-
+  ∧,,,∧
+(  ̳• · • ̳)
+/    づ♡  nah jk I love you  ♾️ %
+            
+⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
 </div>
 
 ---
@@ -44,7 +16,7 @@
 - studying information science @ university of washington
 - i make small web things with big attention to detail
 - current obsession: teaching machines to understand song lyrics (they still think "baby" is about infants) ♪
-- firm believer that software can be functional *and* look  cute
+- firm believer that software can be functional *and* look cute
 
 ---
 
