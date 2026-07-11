@@ -25,8 +25,6 @@
                              ⟅(_   ◡🍞しし , ⎠╯
 
 
-
-search pixel for more! » pls dont repost <3
 ```
 
 <div align="center">
