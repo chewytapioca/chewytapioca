@@ -32,25 +32,6 @@
 
 ---
 
-## ˚ ༘ ⋆｡˚ what i'm working on rn
-
-**taking lyricline's brain further (｡•̀ᴗ-)✧**
-
-lyricline started as a discography timeline with sentiment analysis —
-now i'm going deeper into the ML side of it:
-
-- fine-tuning multilingual sentiment models so k-pop, j-pop, and
-  code-switched lyrics stop confusing the classifier
-- playing with **sentence embeddings** to cluster songs by *feeling*,
-- moving inference **into the browser** with transformers.js so
-  nobody has to wait on my poor little server
-- dreaming about a "songs that feel like this one" recommender ✧
-
-also recently shipped: **puff isle** — a floating 3D world with
-seven little creatures that wander, accept gifts, and remember
-you between visits (◕ᴗ◕✿)
-
----
 
 ## ˚ ༘ ⋆｡˚ things i've made
 
@@ -91,13 +72,6 @@ you between visits (◕ᴗ◕✿)
 ![Git](https://img.shields.io/badge/Git-FFE0D5?style=flat-square&logoColor=7A2E10&logo=git)
 
 ---
-
-## ˚ ༘ ⋆｡˚ currently learning
-
-- how transformer models actually work (attention is... a lot)
-- evaluating ML models properly — accuracy lies, confusion matrices don't
-- swapping in-memory stores for real databases (sql, redis)
-- making things that are accessible and fast, not just pretty
 
 ---
 
