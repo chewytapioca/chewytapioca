@@ -60,14 +60,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-E8E8E8?style=flat-square&logoColor=111&logo=nextdotjs)
 ![Three.js](https://img.shields.io/badge/Three.js-EFE5FA?style=flat-square&logoColor=3A1A5C&logo=threedotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-E0F5E0?style=flat-square&logoColor=1A5C1A&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-EBEBEB?style=flat-square&logoColor=222&logo=express)
-![Tailwind](https://img.shields.io/badge/Tailwind-D5F5F0?style=flat-square&logoColor=0A4A40&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-EDE0FF?style=flat-square&logoColor=4A1A9A&logo=vite)
 
 **ml & tools**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFF0D5?style=flat-square&logoColor=7A4500&logo=huggingface)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE8D5?style=flat-square&logoColor=8A3D00&logo=tensorflow)
 ![Vercel](https://img.shields.io/badge/Vercel-E8E8E8?style=flat-square&logoColor=111&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-FFE0D5?style=flat-square&logoColor=7A2E10&logo=git)
 
@@ -78,8 +75,6 @@
 <div align="center">
 
 *thanks for visiting ˘ᵕ˘*
-
-*(the puffs say hi too)* ⁽⁽ ʕ·ᴥ·ʔ ₎₎
 
 [![github](https://img.shields.io/badge/github-chewytapioca-F4C0D1?style=flat-square&logo=github&logoColor=72243E)](https://github.com/chewytapioca)
 
