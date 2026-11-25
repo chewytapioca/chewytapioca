@@ -26,8 +26,6 @@
 ## ˚ ༘ ⋆｡˚ about me
 
 - studying information science @ university of washington
-- i make small web things with big attention to detail
-- current obsession: teaching machines to understand song lyrics (they still think "baby" is about infants) ♪
 - firm believer that software can be functional *and* look cute
 
 ---
